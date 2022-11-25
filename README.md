@@ -6,6 +6,8 @@
 -Consist of Home page ,About Page,Products Page which contained the products and checkout Page if the user is logged in.
 -The Homepage also contain a featured products list.
 -The products list is fetched from API 'https://course-api.com/react-store-products'.
+-The Single product list api 'https://course-api.com/react-store-single-product?id='
+-The respective product id should be added in the url .
 -The products page contain a filter option to filter out the product using price,color,company,free shipping.
 -The Single Product page contain add to cart button. The product is added to cart if the product stock is available and respective color is choosen.
 -In cart page we can increase or decrease the product or we can remove the product from the list or we can remove the entire product list.
